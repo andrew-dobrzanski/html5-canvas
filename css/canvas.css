@@ -1,0 +1,31 @@
+html, body {
+  margin:0;
+}
+
+#navBar {
+  text-align: center;
+  background-color: #333;
+  padding: 10px 0 20px 0;
+  background-image: url(http://www.myraspberrypiandi.site/images/overlay-pattern.png);
+}
+
+h1 {
+  font-family: 'helvetica neue', sans-serif;
+  color: #fff;
+  font-size: 50px;
+}
+
+.clearBtn {
+  font-family: 'helvetica neue', sans-serif;
+  font-size: 14px;
+  background-color: #ccc;
+  color: #000;
+  font-weight: 700;
+  padding: 20px;
+  text-transform: uppercase;
+  border: 0;
+  cursor: pointer;
+}
+.clearBtn:hover {
+  background-color: #999;
+}
